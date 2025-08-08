@@ -81,6 +81,3 @@ The Code 1 is licensed under the MIT License.
 Link: https://opensource.org/licenses/MIT
 Model 1 is distributed under the [MIT License](https://opensource.org/licenses/MIT).
 
----
-
-If you want, I can now create **the same project structure** but rewritten for your **"Pavement Damage Classification with MobileNetV2"** so both projects look consistent in style. That way your documentation will have a uniform professional format.
